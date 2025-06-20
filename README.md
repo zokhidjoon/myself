@@ -84,9 +84,7 @@
 <div align="center">
 <a align=top href="https://github.com/giocoal">
     <img align=top src="https://github-stats-alpha.vercel.app/api?username=zokhidjoon&cc=22272e&tc=37BCF6&ic=fff&bc=0000" height="192px">
-</a>
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="zokhidjoon's Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zokhidjoon&langs_count=8&theme=react&hide_border=true&bg_color=22272e&title_color=37BCF6&icon_color=fff&bc=0000&hide=java,scss,javascript,tex,ruby,shell,Jupyter%20Notebook" height="192px"/></a>                                                                                                           
+</a>                                                                                                          
 </div>
 
 </details> 
@@ -130,52 +128,9 @@
 
 </br>
 
-<details> 
-<summary><b>📈&nbsp;&nbsp;Activity Stats</b></summary>
-
-<br/> 
-
-<div align="center">
-
-<br>  
-<a align=top href="https://github.com/giocoal">
-    <img align=top alt="giocoal's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=giocoal&theme=github_dark" height="192px"/></a>
-</br>
-                                
-</div>                             
-
-</details>                                
-
-<!---
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
---->
 
 </details>
   
-<details open> 
-<summary><b>✍️&nbsp;&nbsp;Medium articles</b></summary> 
-  
-![Giorgio's blog](https://github-read-medium.vercel.app/latest?username=giorgiocarbone&limit=6&theme=graywhite)
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (portfolio icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-</details>  
 
 </br>
 <div align="center">
@@ -183,11 +138,3 @@
 </br>
 <i><q>That’s what the world is, after all: an endless battle of contrasting memories.</q></i>
 </div> 
-  
-<!-- Resources --> 
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
