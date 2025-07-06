@@ -55,7 +55,7 @@
 
 <h4 align="center">My Resume</h4>
 <div align="center">
-<a href="https://giocoal.github.io/minimal-portfolio/pdf/Carbone_Giorgio_CV_eng.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="CV" height="30" width="30" /></a>
+<a href="https://github.com/zokhidjoon/zokhidjoon/blob/main/Images/Zokhidjon.pdf" target="blank"><img align="center" src="https://img.icons8.com/office/512/parse-from-clipboard.png" alt="CV" height="30" width="30" /></a>
 </div>
 
 <!-- altra icona portfolio: https://4vector.com/i/free-vector-internet-icon_101765_Internet_Icon.png -->
